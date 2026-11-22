@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[872030];export const __webpack_modules__={fxkN(t,e,r){var s=r("QosV"),_=r("qmMi"),c=r("zd8w"),n=r("OWtl"),o=r("Bv6U");r.d(e,{},{FirstPartyPluginBackgroundBridge:function(){let t,e,r=(0,s.c)(3),u=(0,_.gh)(n.u);return r[0]!==u?(t=()=>(0,o.Jf)(u),e=[u],r[0]=u,r[1]=t,r[2]=e):(t=r[1],e=r[2]),(0,c.useEffect)(t,e),null}})}};
+//# sourceMappingURL=872030.c0561e9fdd.js.map

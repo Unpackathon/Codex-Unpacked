@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[884713];export const __webpack_modules__={hoEd(e,o,t){t.d(o,{},{E:function(e,o){if(!o.enabled||e.altKey)return!1;let t=e.metaKey||e.ctrlKey,n=e.key.toLowerCase(),r=t&&"f"===n?o.onOpen:t&&"g"===n&&o.open?e.shiftKey?o.onPrevious:o.onNext:"Escape"===e.key&&o.open?o.onClose:null;return!!r&&(e.preventDefault(),e.stopPropagation(),r(),!0)}})}};
+//# sourceMappingURL=884713.b6748fa130.js.map

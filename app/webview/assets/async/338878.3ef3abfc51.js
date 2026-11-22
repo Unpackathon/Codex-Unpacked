@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[338878];export const __webpack_modules__={zia6(e,a,t){t.d(a,{},{submitSheepOnboardingKickoff:async function(e,{flowId:a,conversationTitle:o,completion:s}){let{submitChatGPTCompletion:n}=await Promise.resolve().then(t.bind(t,"QBVt")),r=s.messageMetadata?.onboarding;return n(e,{...s,messageMetadata:{...s.messageMetadata,onboarding:{...null!=r&&"object"==typeof r&&!Array.isArray(r)?r:{},conversation_title:o,framework:{state:"kickoff",flow_id:a}}}})}})}};
+//# sourceMappingURL=338878.3ef3abfc51.js.map

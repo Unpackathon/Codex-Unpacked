@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[218032];export const __webpack_modules__={oFmV(e,t,s){let n=(0,s("zd8w").createContext)(null);s.d(t,{},{S:n})},yyHu(e,t,s){var n=s("ABep"),o=s("QosV"),r=s("oyxz"),l=s("jxU8"),i=s("QyE3");s.d(t,{},{SettingsExternalSection:function(){let e,t=(0,o.c)(1);return t[0]===Symbol.for("react.memo_cache_sentinel")?(e=(0,n.jsx)(l.P,{title:(0,n.jsx)(i.s,{slug:"environments"}),subtitle:(0,n.jsx)(r.A,{id:"settings.section.external",defaultMessage:"Opens in your browser during Alpha"})}),t[0]=e):e=t[0],e}})}};
+//# sourceMappingURL=218032.15d10ddc9a.js.map

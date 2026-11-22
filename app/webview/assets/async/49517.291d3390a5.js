@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[49517];export const __webpack_modules__={k2R9(e,o,t){var c=t("ABep"),n=t("QosV"),s=t("Ywss"),r=t("PIwo");t.d(o,{},{RemoteConnectionsPage:function(){let e,o=(0,n.c)(2);if(!(0,r.Ik)()){let e;return o[0]===Symbol.for("react.memo_cache_sentinel")?(e=(0,c.jsx)(s.C5,{to:"/",replace:!0}),o[0]=e):e=o[0],e}return o[1]===Symbol.for("react.memo_cache_sentinel")?(e=(0,c.jsx)(s.C5,{to:"/settings/connections",replace:!0}),o[1]=e):e=o[1],e}})}};
+//# sourceMappingURL=49517.291d3390a5.js.map

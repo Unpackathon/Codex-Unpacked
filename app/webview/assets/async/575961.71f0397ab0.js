@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[575961];export const __webpack_modules__={jEZ4(e,t,a){var n=a("tl5a");a.d(t,{},{restoreSubagentsTabRoute:async function({revealAndFocus:e,descriptor:t,insertPosition:a,reason:o,scope:r},s,l){if("local-thread"!==r.value.routeKind)return!1;let d=r.value.conversationId;return await l(r,{revealAndFocus:e,hostId:r.get(n.qX,d),insertPosition:a,openOverviewWhenSelectionUnavailable:!0,parentConversationId:d,selectedConversationId:"persistence"===o?null:s,tabId:t.tabId})===t.tabId}})}};
+//# sourceMappingURL=575961.71f0397ab0.js.map

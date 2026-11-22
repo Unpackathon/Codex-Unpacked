@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[403394];export const __webpack_modules__={UTHN(e,o,r){var n=r("ABep"),t=r("QosV"),s=r("vidr");(0,r("Bbed")._)(async()=>()=>null,{propagateLoadError:!0}),r.d(o,{},{CodexHomeAnnouncementSlot:function(e){let o,r,_=(0,t.c)(6),{entries:d,homeRunLocationRemoteProject:c,includeGitCheckoutWarning:a}=e;return _[0]!==c||_[1]!==a?(o=void 0,_[0]=c,_[1]=a,_[2]=o):o=_[2],_[3]!==d||_[4]!==o?(r=(0,n.jsx)(s.V,{entries:d,renderSlot:o}),_[3]=d,_[4]=o,_[5]=r):r=_[5],r}})}};
+//# sourceMappingURL=403394.58ea3b66cf.js.map

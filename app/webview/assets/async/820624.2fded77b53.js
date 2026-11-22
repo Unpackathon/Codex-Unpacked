@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[820624];export const __webpack_modules__={Qz7q(e,t,r){var a=r("U79P"),o=r("BDbi"),i=r("ASxG");let p=(0,a.LF)({name:"desktop.rail.home.firstPage",output:i.zMY(),persist:!1});r.d(t,{},{prefetchWithOctane:async function(e){let t=(0,o.iN)({transport:async()=>{let t=e();return null==t?{ok:!0,value:!1}:(performance.mark?.("desktop.rail.prefetch.home.start"),await t,performance.mark?.("desktop.rail.prefetch.home.ready"),{ok:!0,value:!0})}});try{await t.prefetch(p,void 0)}finally{await t.retire()}}})}};
+//# sourceMappingURL=820624.2fded77b53.js.map

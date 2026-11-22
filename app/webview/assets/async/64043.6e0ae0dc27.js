@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[64043];export const __webpack_modules__={a04S(a,e,n){var s=n("ABep"),l=n("LNJT");n.d(e,{},{ScaleneTriangleCaption:a=>(0,s.jsx)(l.AX,{...a,variant:"scalene"}),ScaleneTriangleControls:a=>(0,s.jsx)(l.cP,{...a,variant:"scalene"}),ScaleneTriangleVisualization:a=>(0,s.jsx)(l.wG,{...a,variant:"scalene"})})}};
+//# sourceMappingURL=64043.6e0ae0dc27.js.map

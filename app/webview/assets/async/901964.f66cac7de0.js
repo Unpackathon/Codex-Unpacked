@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[901964];export const __webpack_modules__={zhuo(s,e,o){var a=o("ABep"),i=o("LNJT");o.d(e,{},{IsoscelesTriangleCaption:s=>(0,a.jsx)(i.AX,{...s,variant:"isosceles"}),IsoscelesTriangleControls:s=>(0,a.jsx)(i.cP,{...s,variant:"isosceles"}),IsoscelesTriangleVisualization:s=>(0,a.jsx)(i.wG,{...s,variant:"isosceles"})})}};
+//# sourceMappingURL=901964.f66cac7de0.js.map

@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[751477];export const __webpack_modules__={NF5v(e,t,o){var s=o("ABep"),c=o("QosV"),r=o("Ywss"),a=o("jEww");o.d(t,{},{BrowserLoadPageWithAuth:function(){let e,t,o=(0,c.c)(6),[n]=(0,r.ok)(),_="/";try{let e;o[0]!==n?(e=n.get("toUrl")??"/",o[0]=n,o[1]=e):e=o[1],_=decodeURIComponent(e)}catch{}o[2]!==_?(e=new URL((0,a.ci)(_)),o[2]=_,o[3]=e):e=o[3];let p=e,h=`${p.pathname}${p.search}${p.hash}`;return o[4]!==h?(t=(0,s.jsx)(r.C5,{to:h,replace:!0}),o[4]=h,o[5]=t):t=o[5],t}})}};
+//# sourceMappingURL=751477.4a65e3ddce.js.map

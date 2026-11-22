@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[836735];export const __webpack_modules__={HUJu(a,t,s){var e=s("SGsN");s.d(t,{},{_:function(a,t){a.get(e.Id).success(t.formatMessage({id:"chatgpt.account_transfer.toast.migration_started",defaultMessage:"Your data is being migrated into this workspace. It will appear gradually, and the full process may take some time to finish."}),{id:"personal-migration-started",duration:1/0,hasCloseButton:!0})}})},XRn3(a,t,s){s.d(t,{},{P:"oai/apps/hasSeenMigrationOnboarding",d:"transfer_finalization_pending"})}};
+//# sourceMappingURL=836735.d0cf60b906.js.map

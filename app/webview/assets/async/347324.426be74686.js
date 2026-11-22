@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[347324];export const __webpack_modules__={DQGK(t,o,a){var e=a("QBVt");a.d(o,{},{respondToChatGptToolRequest:async function(t,{action:o,conversationId:a,elicitationResponse:s,isApiToolElicitation:p,isTemporaryChat:_,model:n,recipient:r,...c}){await (0,e.submitChatGPTCompletion)(t,{...c,conversationId:a,isTemporaryChat:_,model:n,prompt:"",toolApproval:{action:o.type,actionData:o,elicitationResponse:s,isApiToolElicitation:p,recipient:r,targetMessageId:o.target_message_id}})}})}};
+//# sourceMappingURL=347324.426be74686.js.map

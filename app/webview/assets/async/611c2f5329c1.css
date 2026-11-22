@@ -1,0 +1,1 @@
+@layer components{.gradient-B3_bvs{background-image:linear-gradient(to right, color-mix(in srgb, var(--color-chart-blue) 60%, var(--color-text)), color-mix(in srgb, color-mix(in oklch, var(--color-chart-blue) 70%, var(--color-chart-red)) 60%, var(--color-text)))}.shimmer-VlXNVz{--loading-shimmer-base:transparent;--loading-shimmer-highlight:var(--color-text)}}

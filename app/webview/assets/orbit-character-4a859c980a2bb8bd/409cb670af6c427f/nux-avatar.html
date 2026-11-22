@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Alfred Dot animation</title>
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self'; connect-src 'self'; worker-src 'self'; base-uri 'none'"
+    />
+    <link rel="stylesheet" href="./nux-avatar.css" />
+    <link
+      rel="modulepreload"
+      href="../runtime/single-thread/orbit-characters.mjs"
+    />
+    <link rel="modulepreload" href="./nux-playlist.mjs" />
+    <link rel="modulepreload" href="./avatar-framing.mjs" />
+    <link rel="modulepreload" href="../runtime/single-thread/orbit-enums.mjs" />
+    <link
+      rel="preload"
+      as="fetch"
+      href="../runtime/single-thread/orbit-characters.wasm"
+      type="application/wasm"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      as="fetch"
+      href="../runtime/single-thread/orbit-characters.data"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <canvas id="alfred" width="256" height="256" aria-hidden="true"></canvas>
+    <script type="module" src="./nux-avatar.mjs"></script>
+  </body>
+</html>

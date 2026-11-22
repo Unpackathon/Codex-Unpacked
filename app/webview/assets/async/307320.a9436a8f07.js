@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[307320];export const __webpack_modules__={GaA7(e,p,s){let t,o;s.r(p),s.d(p,{appHost:()=>t,appServices:()=>o},{setAppHost:function(e){t=e},setAppServices:function(e){o=e}})}};
+//# sourceMappingURL=307320.a9436a8f07.js.map

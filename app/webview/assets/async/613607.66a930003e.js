@@ -1,0 +1,8 @@
+/**
+ * @license lucide-react v0.456.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+export const __rspack_esm_ids=[613607];export const __webpack_modules__={Irkc(e,r,t){t.d(r,{A:()=>l});var c=t("zd8w");let a=(...e)=>e.filter((e,r,t)=>!!e&&""!==e.trim()&&t.indexOf(e)===r).join(" ").trim();var o={xmlns:"http://www.w3.org/2000/svg",width:24,height:24,viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round"};let i=(0,c.forwardRef)(({color:e="currentColor",size:r=24,strokeWidth:t=2,absoluteStrokeWidth:i,className:l="",children:s,iconNode:n,...d},m)=>(0,c.createElement)("svg",{ref:m,...o,width:r,height:r,stroke:e,strokeWidth:i?24*Number(t)/Number(r):t,className:a("lucide",l),...d},[...n.map(([e,r])=>(0,c.createElement)(e,r)),...Array.isArray(s)?s:[s]])),l=(e,r)=>{let t=(0,c.forwardRef)(({className:t,...o},l)=>(0,c.createElement)(i,{ref:l,iconNode:r,className:a(`lucide-${e.replace(/([a-z0-9])([A-Z])/g,"$1-$2").toLowerCase()}`,t),...o}));return t.displayName=`${e}`,t}},XRUz(e,r,t){t.r(r);let c=(0,(t("Irkc")).A)("GitBranch",[["line",{x1:"6",x2:"6",y1:"3",y2:"15",key:"17qcm7"}],["circle",{cx:"18",cy:"6",r:"3",key:"1h7g24"}],["circle",{cx:"6",cy:"18",r:"3",key:"fqmcym"}],["path",{d:"M18 9a9 9 0 0 1-9 9",key:"n2h4wq"}]]);t.d(r,{},{default:c})}};
+//# sourceMappingURL=613607.66a930003e.js.map

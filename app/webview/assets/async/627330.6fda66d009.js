@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[627330];export const __webpack_modules__={CRSY(e,r,o){e.exports=o.p+"assets/pdf.worker.min.362bd17472.mjs"},uvgn(e,r,o){let t=new URL(o("CRSY"),o.b).toString(),n=!1;o.d(r,{},{getPdfjs:async function(){if("u"<typeof window)throw Error("pdf.js can only be loaded in the browser");let e=await o.e(881954).then(o.bind(o,"WxZ7"));return n&&e.GlobalWorkerOptions.workerSrc===t||(e.GlobalWorkerOptions.workerSrc=t,n=!0),e},j:t})}};
+//# sourceMappingURL=627330.6fda66d009.js.map

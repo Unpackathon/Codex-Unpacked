@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[513470];export const __webpack_modules__={MyxJ(e,o,a){var t=a("zd8w"),n=a("Bbed"),l=a("Dxtb");let c=(0,n._)(async()=>(await a.e(849479).then(a.bind(a,"mab1"))).PageMoveDestinationDialog,{fallback:e=>(0,t.createElement)(l.v,{onClose:e.onClose,pageCount:e.pageCount,documentType:e.documentType}),errorFallback:e=>(0,t.createElement)(l.v,{failed:!0,onClose:e.onClose,pageCount:e.pageCount,documentType:e.documentType})});a.d(o,{},{PageMoveDestinationDialog:c})}};
+//# sourceMappingURL=513470.e6c40c0b66.js.map

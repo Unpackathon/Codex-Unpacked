@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[707603];export const __webpack_modules__={zLgM(e,o,a){var n=a("zd8w"),t=a("Bbed"),l=a("Dxtb");let c=(0,t._)(async()=>(await a.e(231874).then(a.bind(a,"fNSc"))).PageMoveConfirmationDialog,{fallback:e=>(0,n.createElement)(l.v,{documentType:e.documentType,onClose:e.onClose}),errorFallback:e=>(0,n.createElement)(l.v,{failed:!0,documentType:e.documentType,onClose:e.onClose})});a.d(o,{},{PageMoveConfirmationDialog:c})}};
+//# sourceMappingURL=707603.3e5a75ae2e.js.map

@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[262777];export const __webpack_modules__={oFmV(e,t,o){let s=(0,o("zd8w").createContext)(null);o.d(t,{},{S:s})},jKPY(e,t,o){var s=o("ABep"),l=o("QosV"),n=o("no0e"),c=o("jxU8");o.d(t,{},{SkillsSettings:function(){let e,t=(0,l.c)(1);return t[0]===Symbol.for("react.memo_cache_sentinel")?(e=(0,s.jsx)(c.P,{children:(0,s.jsx)(n.SkillsPage,{})}),t[0]=e):e=t[0],e}})}};
+//# sourceMappingURL=262777.12e5ef3dc9.js.map

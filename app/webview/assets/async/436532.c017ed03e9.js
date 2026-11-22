@@ -1,0 +1,2 @@
+let e=new OffscreenCanvas(8,8).getContext("2d",{alpha:!0,willReadFrequently:!0}),a=0,l=0,t=0;self.onmessage=({data:s})=>{if(null!=e){e.clearRect(0,0,8,8),e.drawImage(s,0,0,8,8);let{data:i}=e.getImageData(0,0,8,8),n=0;for(let e=3;e<i.length;e+=4)n+=i[e];let d=l===s.displayWidth&&t===s.displayHeight?a:0;if(0===n||d>0&&n<.98*d){s.close(),self.postMessage(null);return}a=Math.max(d,n),l=s.displayWidth,t=s.displayHeight}self.postMessage(s,{transfer:[s]})};
+//# sourceMappingURL=436532.c017ed03e9.js.map

@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[920828];export const __webpack_modules__={xftA(e,a,o){var r=o("Qtkb"),t=o("B5Qz");o.d(a,{},{collectFeedbackWorkloadSummary:function(e){let a=e.get(t.CO);return{schemaVersion:1,unread:r.OX.getWorkloadSummary(),catalog:{published:(0,t.Xy)(e),reads:a?.getWorkloadSummary()??null}}}})}};
+//# sourceMappingURL=920828.cc2450b461.js.map

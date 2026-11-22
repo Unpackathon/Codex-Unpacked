@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[265023];export const __webpack_modules__={pyH7(e,t,a){var n=a("Omjs");a.d(t,{},{getWorkspaceFileTabContextMenuItems:async function(e,{cwd:t,libraryFileId:s,hostId:i,path:o}){let _=await (0,n.KV)(e,{cwd:t,hostId:i,path:o});if(null!=s){let{getLibraryFileTabContextMenuItems:t}=await a.e(597563).then(a.bind(a,"oeXD"));_.unshift(...await t(e,s))}return _}})}};
+//# sourceMappingURL=265023.150da4f94e.js.map

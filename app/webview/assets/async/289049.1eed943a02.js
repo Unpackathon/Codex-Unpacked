@@ -1,0 +1,2 @@
+export const __rspack_esm_ids=[289049];export const __webpack_modules__={E6WR(e,r,l){var n=l("eWgO"),o=l("CKur"),s=l("g2p6"),t=l("osfW"),a=l("Bb2k");l.d(r,{},{readInitialWorkPreferences:async function(e){await Promise.all([e.query.fetch(s.s6),e.query.fetch(o.av)]);let{selection:r}=(0,t.J)(e.get,void 0);return{model:r.slug,reasoningEffort:r.thinkingEffort,serviceTier:(0,n.Pg)(e.get(a.$)??null)??"standard",approvalPolicy:null,cloudBrowserUse:null,sandboxMode:null,networkAccess:null,webSearch:null}}})}};
+//# sourceMappingURL=289049.1eed943a02.js.map

@@ -1,0 +1,66 @@
+{
+  "archive": "app.asar",
+  "sha256": "8a437aad94098770c1bf5fd5385c204e162b62c6d7917f688741d74e05babe90",
+  "files": 15520,
+  "verified_index_hashes": 15512,
+  "without_index_hash": 0,
+  "companion_files": 8,
+  "companion_mismatches": [
+    {
+      "path": "node_modules/@worklouder/device-kit-oai/node_modules/@serialport/bindings-cpp/build/Release/bindings.node",
+      "index_bytes": 787456,
+      "observed_bytes": 803120,
+      "index_sha256": "2c315c61248b1a9753680c95c788ade7422301f8606b5df461f84ccc45ee160e",
+      "observed_sha256": "98543263c54abe5b413fbfd95e06428fb587f841034e54589fb3e02e37d9abd6"
+    },
+    {
+      "path": "node_modules/@worklouder/device-kit-oai/node_modules/node-hid/build/Release/HID.node",
+      "index_bytes": 1575424,
+      "observed_bytes": 1591088,
+      "index_sha256": "6dd2340c3308272c323204422d64bd5129cc75072c524a3b219bf1c32fcf04ea",
+      "observed_sha256": "6be9444ced522e259b39801d90f534d370bc7ef388fda9d3292a31bc72c81941"
+    },
+    {
+      "path": "node_modules/better-sqlite3/build/Release/better_sqlite3.node",
+      "index_bytes": 2987008,
+      "observed_bytes": 3002672,
+      "index_sha256": "0838c69f1b3abbdff1091ae41f0fb16bd8db2ebc1d8dc3ce66e95ccb34a836e3",
+      "observed_sha256": "c0db28641d65969526cda9506e811ce094c312457ab33cd73ffd6f02ebf68863"
+    },
+    {
+      "path": "node_modules/node-pty/build/Release/conpty.node",
+      "index_bytes": 1527808,
+      "observed_bytes": 1543472,
+      "index_sha256": "fc5f3107fca7b89387442846fe1ec0df8e128b4263cb437db151e3fc1d0a2204",
+      "observed_sha256": "6063ca506d41bbfdda6e76bc07d00cf0541577772b61f1da58c58c9e9d653ea5"
+    },
+    {
+      "path": "node_modules/node-pty/build/Release/conpty_console_list.node",
+      "index_bytes": 772608,
+      "observed_bytes": 788272,
+      "index_sha256": "efb5b12176e93aa0608fbe1a6a8adbc32549b4c2de035c0d1c370ceb031b952d",
+      "observed_sha256": "04ab8352f95fe983c9f681d1f83f217e89a2a9dde1e6b7ff66ac42d76ecabe1c"
+    },
+    {
+      "path": "node_modules/node-pty/build/Release/pty.node",
+      "index_bytes": 1504256,
+      "observed_bytes": 1519920,
+      "index_sha256": "b6da494e6e1d261c0cdfd470c84d493f321ebc36a6a1306acbaef035a3bfd78f",
+      "observed_sha256": "97ff2a8025a931285bd7c4d26a1b3d75842b87d3decc04f096b6dbc84b805861"
+    },
+    {
+      "path": "node_modules/node-pty/build/Release/winpty-agent.exe",
+      "index_bytes": 1209344,
+      "observed_bytes": 1225008,
+      "index_sha256": "36be44d9eb691344d45a6457f8415666ff5ea86bff727a34bd04dae63db674df",
+      "observed_sha256": "c812a5d279e6a5f60c87f8c43996d6e59bb12555da0dfca4f9d4557449d2a06e"
+    },
+    {
+      "path": "node_modules/node-pty/build/Release/winpty.dll",
+      "index_bytes": 1089024,
+      "observed_bytes": 1104688,
+      "index_sha256": "da8f76e17942df6f46307d894586f437194249d7165e08b0a22312314416f2d4",
+      "observed_sha256": "507acc67a233ac3d4a95615af019670f25876cc09be4ea13c3eb95f06c44b861"
+    }
+  ]
+}

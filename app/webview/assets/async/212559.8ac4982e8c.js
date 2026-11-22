@@ -1,0 +1,1 @@
+export const __rspack_esm_ids=[212559];export const __webpack_modules__={iTv5(e,_,c){var r=c("o8jV");c("YyGe"),c.d(_,{createArchitectureServices:()=>r.S})}};
